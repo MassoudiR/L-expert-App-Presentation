@@ -34,7 +34,7 @@ To get started with the L'expert App, follow these steps:
 
 #### 1. Install the Flutter Application
 
-You can install the Flutter application from the [Releases section](https://github.com/MassoudiR/L-expert-App-Presentation/releases/download/apk/L.expert.School.apk) of this repository. Download the appropriate version for your Android device. Make sure to grant the necessary permissions during the installation process.
+You can install the Flutter application from the [Releases section](https://github.com/MassoudiR/L-expert-App-Presentation/releases/download/APK/L.expert.School.apk) of this repository. Download the appropriate version for your Android device. Make sure to grant the necessary permissions during the installation process.
 
 #### 2. Server preparation
 
